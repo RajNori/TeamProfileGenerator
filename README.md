@@ -7,13 +7,14 @@ Run ```node index.js``` and answer question prompts.
 
 # Project Name
 
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Team Profile Generator
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
+* [Video](#Video-walkthrough)
 * [Setup](#setup)
 * [Usage](#usage)
 * [Project Status](#project-status)
@@ -46,10 +47,11 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot]()
+![Example screenshot](Screen1.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
-
+## Video
+![Example video](https://www.youtube.com/watch?v=jabHdaHq6ag)
 ## Setup
 The project uses the inquirer package and JEST as part of the installation, please install them before running the program.
 
