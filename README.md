@@ -62,7 +62,6 @@ You can use `npm start` as a command as the command has been pre configured in t
 Project is: _complete
 
 ## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
 
 Room for improvement:
 - Edge cases need to be tested for and added as features.
@@ -73,13 +72,14 @@ To do:
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- This project was based on the.
-- Many thanks to...
+- This project was inspired by...Monash Bootcamp
+- This project was based on the assignment team generator.
+- Many thanks to....https://www.pluralsight.com/courses/test-driven-development-big-picture & other TDD resoureces online including Test Driven Development by Kent Beck.
+
 
 
 ## Contact
-Created by [@rajnori]() - feel free to contact me!
+Created by [@rajnori](https://rajnori.github.io/Portfolio-project/) - feel free to contact me!
 
 
 
