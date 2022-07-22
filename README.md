@@ -1,8 +1,10 @@
 Team Members Generator
-===
-By Raj Nori. Generate a web-page of your development team members.
+
+> By Raj Nori. 
+> Generate a web-page of your development team members.
+
 Usage
-===
+
 Run ```node index.js``` and answer question prompts.
 
 # Project Name
